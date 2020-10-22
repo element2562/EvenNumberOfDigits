@@ -1,0 +1,13 @@
+C:\Users\eleme\source\repos\EvenNumberOfDigits\bin\Debug\netcoreapp3.1\EvenNumberOfDigits.exe
+C:\Users\eleme\source\repos\EvenNumberOfDigits\bin\Debug\netcoreapp3.1\EvenNumberOfDigits.deps.json
+C:\Users\eleme\source\repos\EvenNumberOfDigits\bin\Debug\netcoreapp3.1\EvenNumberOfDigits.runtimeconfig.json
+C:\Users\eleme\source\repos\EvenNumberOfDigits\bin\Debug\netcoreapp3.1\EvenNumberOfDigits.runtimeconfig.dev.json
+C:\Users\eleme\source\repos\EvenNumberOfDigits\bin\Debug\netcoreapp3.1\EvenNumberOfDigits.dll
+C:\Users\eleme\source\repos\EvenNumberOfDigits\bin\Debug\netcoreapp3.1\EvenNumberOfDigits.pdb
+C:\Users\eleme\source\repos\EvenNumberOfDigits\obj\Debug\netcoreapp3.1\EvenNumberOfDigits.csprojAssemblyReference.cache
+C:\Users\eleme\source\repos\EvenNumberOfDigits\obj\Debug\netcoreapp3.1\EvenNumberOfDigits.AssemblyInfoInputs.cache
+C:\Users\eleme\source\repos\EvenNumberOfDigits\obj\Debug\netcoreapp3.1\EvenNumberOfDigits.AssemblyInfo.cs
+C:\Users\eleme\source\repos\EvenNumberOfDigits\obj\Debug\netcoreapp3.1\EvenNumberOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\eleme\source\repos\EvenNumberOfDigits\obj\Debug\netcoreapp3.1\EvenNumberOfDigits.dll
+C:\Users\eleme\source\repos\EvenNumberOfDigits\obj\Debug\netcoreapp3.1\EvenNumberOfDigits.pdb
+C:\Users\eleme\source\repos\EvenNumberOfDigits\obj\Debug\netcoreapp3.1\EvenNumberOfDigits.genruntimeconfig.cache
